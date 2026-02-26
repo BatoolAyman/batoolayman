@@ -2,7 +2,7 @@
 
 My name is Batool Ayman Mohamed.  
 I graduated from the Faculty of Artificial Intelligence.  
-I completed intensive Data Engineering training, Data Science programs at ITI and DEPI.
+I completed intensive Data Engineering, Data Science training programs at ITI and DEPI.
 
 ## 🌐 Socials:
 
