@@ -6,9 +6,7 @@ I completed intensive Data Engineering training, Data Science programs at ITI an
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/batool-ayman-mohamed)
-
-[![Email](https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white)](mailto:abatoolayman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/batool-ayman-mohamed) [![Email](https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white)](mailto:abatoolayman@gmail.com)
 
 ## 💻 Tech Stack:
 
