@@ -36,3 +36,5 @@ I completed intensive Data Engineering training, Data Science programs at ITI an
 
 ## 📊 GitHub Stats:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=batoolayman&theme=radical)](https://git.io/streak-stats)
+
