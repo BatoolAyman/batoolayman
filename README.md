@@ -2,9 +2,9 @@
 
 My name is Batool Ayman Mohamed.  
 I graduated from the Faculty of Artificial Intelligence.  
-I completed intensive Data Engineering, Data Science training programs at ITI and DEPI.                                                                            
-Builing end to-end ETL/ELT pipelines using Python and SQL, workflow orchestration with Airflow, and analytics engineering with dbt and Snowflake.                  
-Seeking a Data Engineer role focused on scalable pipelines, orchestration, and data modeling.
+I completed intensive Data Engineering & Data Science training programs at ITI and DEPI.                                                                           
+Builing end to-end ETL/ELT pipelines using Python & SQL, workflow orchestration with Airflow and analytics engineering with dbt & Snowflake.                  
+Seeking a Data Engineer role focused on scalable pipelines, orchestration and data modeling.
 
 ## 🌐 Socials:
 
